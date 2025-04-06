@@ -1,6 +1,10 @@
 {
   "keys": [
     {
+      "authkey": "xrmprm",
+      "expires": "2025-12-31 23:59:59"
+    },
+    {
       "authkey": "a8F3zP9xW7kL2qRtV5yM1eBdGhC6NjUv",
       "expires": "2025-12-31 23:59:59"
     },
